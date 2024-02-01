@@ -1,4 +1,4 @@
-# validando-formulario
+# Validando Fomulário Simples
 Projeto realizado juntamente com o curso de Javascript e Typescript
 
 ## conceitos utilizados
